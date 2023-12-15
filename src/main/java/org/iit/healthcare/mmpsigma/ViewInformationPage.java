@@ -13,13 +13,17 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class ViewInformationPage {
+	
+	/*
+	 * This is Fix_View_information 2-branch
+	 */
 
 	WebDriver driver;
 	String expected;
 	String actual = "";
 	HashMap<String, String> expectedHMap = new HashMap<String, String>();
-	HashMap<String, String> actualHMap = new HashMap<String, String>();
-
+	HashMap<String, String> actualHMap = new HashMap<String, String>();	
+	
 	@Test
 	public void validateInformationPage() {
 
