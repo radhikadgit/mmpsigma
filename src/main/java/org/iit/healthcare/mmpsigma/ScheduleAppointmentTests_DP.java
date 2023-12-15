@@ -20,6 +20,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ScheduleAppointmentTests_DP {
 
+	// new comment
+	
 	WebDriver driver;
 	@Test
 	public void validateScheduleAppointment()
