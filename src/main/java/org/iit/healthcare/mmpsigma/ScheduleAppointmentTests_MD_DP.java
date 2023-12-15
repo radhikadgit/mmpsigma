@@ -11,6 +11,10 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class ScheduleAppointmentTests_MD_DP extends BaseClass {
+	
+	/* Here @parameters doctorName is not idenitfy
+	 * this is Test_MD_DP_Fix branch
+	 */
 
 	 
 	@Parameters({"doctorName"})
