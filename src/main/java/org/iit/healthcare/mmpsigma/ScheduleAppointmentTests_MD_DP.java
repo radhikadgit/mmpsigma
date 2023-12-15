@@ -15,8 +15,7 @@ public class ScheduleAppointmentTests_MD_DP extends BaseClass {
 	/* Here @parameters doctorName is not idenitfy
 	 * this is Test_MD_DP_Fix branch
 	 */
-	// this is new commit from master
-
+	
 	 
 	@Parameters({"doctorName"})
 	@Test
