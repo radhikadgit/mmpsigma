@@ -13,6 +13,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//change from remote master
+
 public class BaseClass {
 	protected WebDriver driver;
 	protected Properties prop;
