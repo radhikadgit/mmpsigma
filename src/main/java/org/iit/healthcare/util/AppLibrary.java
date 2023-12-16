@@ -6,6 +6,10 @@ import java.util.Date;
 import java.util.Random;
 
 public class AppLibrary {
+	
+	/*
+	 * This is Java code
+	 */
 	public static String getDate(String format)
 	{
 		//Date Func
