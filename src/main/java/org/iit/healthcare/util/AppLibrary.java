@@ -9,6 +9,7 @@ public class AppLibrary {
 	
 	/*
 	 * This is Java code
+	 * new code
 	 */
 	public static String getDate(String format)
 	{
