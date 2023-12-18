@@ -17,6 +17,8 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ScheduleAppointmentTests {
+	
+	// added new branch fix
 
 	WebDriver driver;
 	@Test
